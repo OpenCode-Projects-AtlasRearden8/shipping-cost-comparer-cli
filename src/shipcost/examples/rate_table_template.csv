@@ -1,0 +1,3 @@
+carrier,service,zone,weight_lb,base_price,insurance_per_100,hand_min_days,hand_max_days
+Your Carrier,Your Service,5,1,7.99,1.05,2,4
+Your Carrier,Your Service,5,3,10.49,1.05,2,5
